@@ -3,7 +3,11 @@
 This project is a web-based summarization app that leverages the **LaMini-Flan-T5** model to generate concise summaries for:  
 1. PDF documents  
 2. Online articles  
-3. Custom text input  
+3. Custom text input
+## Live Demo
+
+Check out the live demo of this project on Hugging Face Spaces: [AI content summerizer](https://huggingface.co/spaces/mishrasahil934/Team_skulk)
+
 
 ## Features  
 - **PDF Summarization**: Upload a PDF file to extract and summarize its content.  
