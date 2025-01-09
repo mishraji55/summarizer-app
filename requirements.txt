@@ -1,0 +1,12 @@
+PyMuPDF
+langchain
+langchain_community
+torch
+transformers
+beautifulsoup4
+requests
+python-dotenv
+pypdf
+pypdf2
+tiktoken
+streamlit
