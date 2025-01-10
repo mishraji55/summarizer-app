@@ -6,7 +6,7 @@ This project is a web-based summarization app that leverages the **LaMini-Flan-T
 3. Custom text input
 ## Live Demo
 
-Check out the live demo of this project on Hugging Face Spaces: [AI content summerizer]([https://huggingface.co/spaces/mishrasahil934/Team_skulk](https://mishrasahil934-team-skulk.hf.space/?embed=true&embed_options=show_toolbar#ai-content-summarizer))
+Check out the live demo of this project on Hugging Face Spaces: [AI content summerizer]([https://huggingface.co/spaces/mishrasahil934/Team_skulk](https://mishrasahil934-team-skulk.hf.space/?embed=true&embed_options=show_toolbar#ai-content-summarizer)
 
 
 ## Features  
